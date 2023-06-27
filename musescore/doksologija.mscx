@@ -511,6 +511,9 @@
           <Harmony>
             <name></name>
             </Harmony>
+          <Harmony>
+            <root>10</root>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
