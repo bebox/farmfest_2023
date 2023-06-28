@@ -105,6 +105,10 @@
           <style>Title</style>
           <text>Kralj slave</text>
           </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Third Day</text>
+          </Text>
         </VBox>
       <Measure>
         <voice>
@@ -120,8 +124,13 @@
             </Harmony>
           <Tempo>
             <tempo>1.5666666666666667</tempo>
+            <offset x="-13.5" y="-4.15323"/>
             <text><sym>metNoteQuarterUp</sym> = 94</text>
             </Tempo>
+          <RehearsalMark>
+            <offset x="-3.62903" y="-4.01613"/>
+            <text>A</text>
+            </RehearsalMark>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -207,8 +216,11 @@
         <voice>
           <Harmony>
             <root>18</root>
-            <base>22</base>
             </Harmony>
+          <RehearsalMark>
+            <offset x="-1.74194" y="-3.07594"/>
+            <text>B</text>
+            </RehearsalMark>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -226,15 +238,6 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <location>
-            <fractions>-3/64</fractions>
-            </location>
-          <Harmony>
-            <root>18</root>
-            </Harmony>
-          <location>
-            <fractions>3/64</fractions>
-            </location>
           <Harmony>
             <name></name>
             </Harmony>
@@ -517,7 +520,9 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>??</name>
+            <root>17</root>
+            <name>(b5)</name>
+            <base>21</base>
             </Harmony>
           <Rest>
             <durationType>half</durationType>
@@ -562,7 +567,6 @@
         <voice>
           <Harmony>
             <root>18</root>
-            <base>22</base>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -581,15 +585,6 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <location>
-            <fractions>-3/64</fractions>
-            </location>
-          <Harmony>
-            <root>18</root>
-            </Harmony>
-          <location>
-            <fractions>3/64</fractions>
-            </location>
           <Harmony>
             <name></name>
             </Harmony>
@@ -897,7 +892,9 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>??</name>
+            <root>17</root>
+            <name>(b5)</name>
+            <base>21</base>
             </Harmony>
           <Rest>
             <durationType>half</durationType>
@@ -936,6 +933,9 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -943,6 +943,10 @@
           <Harmony>
             <root>17</root>
             </Harmony>
+          <RehearsalMark>
+            <offset x="-1.30645" y="-1.97387"/>
+            <text>C</text>
+            </RehearsalMark>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1572,6 +1576,9 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -1579,6 +1586,11 @@
           <Harmony>
             <root>17</root>
             </Harmony>
+          <RehearsalMark>
+            <minDistance>0.354839</minDistance>
+            <offset x="-2.32258" y="-2.93078"/>
+            <text>D</text>
+            </RehearsalMark>
           <Chord>
             <durationType>half</durationType>
             <Note>

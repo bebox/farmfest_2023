@@ -181,6 +181,11 @@
             </Rest>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <ticks>240</ticks>
+              <ticks_f>1/8</ticks_f>
+              <text>Tko</text>
+              </Lyrics>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
@@ -243,6 +248,9 @@
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <text>je</text>
+              </Lyrics>
             <Note>
               <pitch>68</pitch>
               <tpc>22</tpc>
@@ -252,6 +260,11 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <ticks>120</ticks>
+              <ticks_f>1/16</ticks_f>
+              <text>taj</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -289,6 +302,9 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <text>Kralj</text>
+              </Lyrics>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
@@ -298,6 +314,10 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>sla</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -333,6 +353,10 @@
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>ve</text>
+              </Lyrics>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
@@ -357,6 +381,10 @@
             </Rest>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>ko</text>
+              </Lyrics>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
@@ -366,6 +394,11 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/8</ticks_f>
+              <text>ji</text>
+              </Lyrics>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
@@ -375,6 +408,10 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>lju</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -428,6 +465,11 @@
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
+              <text>bav</text>
+              </Lyrics>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
@@ -437,6 +479,10 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>da</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -474,6 +520,11 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
+              <text>je</text>
+              </Lyrics>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
@@ -483,6 +534,11 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <ticks>120</ticks>
+              <ticks_f>1/16</ticks_f>
+              <text>mi</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -535,6 +591,9 @@
             </Rest>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <text>I</text>
+              </Lyrics>
             <Note>
               <pitch>68</pitch>
               <tpc>22</tpc>
@@ -544,6 +603,10 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>go</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -590,6 +653,10 @@
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>vo</text>
+              </Lyrics>
             <Note>
               <pitch>68</pitch>
               <tpc>22</tpc>
@@ -599,6 +666,12 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks>120</ticks>
+              <ticks_f>1/16</ticks_f>
+              <text>ri</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -636,6 +709,9 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <text>mi</text>
+              </Lyrics>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
@@ -645,6 +721,10 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>u</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -680,6 +760,12 @@
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks>360</ticks>
+              <ticks_f>3/16</ticks_f>
+              <text>vijek</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -729,6 +815,10 @@
             </Rest>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>svo</text>
+              </Lyrics>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
@@ -738,6 +828,11 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
+              <text>jim</text>
+              </Lyrics>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
@@ -747,6 +842,10 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>njež</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -800,6 +899,11 @@
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
+              <text>nim</text>
+              </Lyrics>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
@@ -809,6 +913,10 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>rije</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -846,6 +954,10 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>či</text>
+              </Lyrics>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
@@ -855,6 +967,12 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks>120</ticks>
+              <ticks_f>1/16</ticks_f>
+              <text>ma</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -1239,6 +1357,11 @@
             </Rest>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <ticks>240</ticks>
+              <ticks_f>1/8</ticks_f>
+              <text>Tko</text>
+              </Lyrics>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
@@ -1291,6 +1414,9 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <text>je</text>
+              </Lyrics>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
@@ -1300,6 +1426,11 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <ticks>120</ticks>
+              <ticks_f>1/16</ticks_f>
+              <text>taj</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -1334,6 +1465,9 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <text>Kralj</text>
+              </Lyrics>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
@@ -1343,6 +1477,10 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>sla</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -1378,6 +1516,10 @@
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>ve</text>
+              </Lyrics>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
@@ -1400,6 +1542,9 @@
             </Rest>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <text>tko</text>
+              </Lyrics>
             <Note>
               <pitch>68</pitch>
               <tpc>22</tpc>
@@ -1409,6 +1554,10 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>o</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -1443,6 +1592,11 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
+              <text>vo</text>
+              </Lyrics>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
@@ -1452,6 +1606,10 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>da</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -1486,6 +1644,11 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/8</ticks_f>
+              <text>je</text>
+              </Lyrics>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
@@ -1495,6 +1658,11 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <ticks>120</ticks>
+              <ticks_f>1/16</ticks_f>
+              <text>mi</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -1550,7 +1718,11 @@
             <durationType>quarter</durationType>
             </Rest>
           <Chord>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>I</text>
+              </Lyrics>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
@@ -1559,7 +1731,22 @@
               </Note>
             </Chord>
           <Chord>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/8</ticks_f>
+              <text>me</text>
+              </Lyrics>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <text>mu</text>
+              </Lyrics>
             <Note>
               <pitch>68</pitch>
               <tpc>22</tpc>
@@ -1569,6 +1756,9 @@
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <text>je</text>
+              </Lyrics>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
@@ -1593,6 +1783,10 @@
             </RehearsalMark>
           <Chord>
             <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>I</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -1636,6 +1830,12 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks>240</ticks>
+              <ticks_f>1/8</ticks_f>
+              <text>sus</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -1682,6 +1882,10 @@
             </Rest>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>dra</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -1717,6 +1921,10 @@
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>go</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -1762,6 +1970,12 @@
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks>720</ticks>
+              <ticks_f>3/8</ticks_f>
+              <text>cjen</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -1796,6 +2010,9 @@
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <text>je</text>
+              </Lyrics>
             <Note>
               <pitch>73</pitch>
               <tpc>21</tpc>
@@ -1805,6 +2022,11 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <ticks>240</ticks>
+              <ticks_f>1/8</ticks_f>
+              <text>On</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -1851,6 +2073,10 @@
             </Rest>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>Go</text>
+              </Lyrics>
             <Note>
               <pitch>68</pitch>
               <tpc>22</tpc>
@@ -1860,6 +2086,12 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks>120</ticks>
+              <ticks_f>1/16</ticks_f>
+              <text>spod</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -1894,6 +2126,10 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>sve</text>
+              </Lyrics>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
@@ -1903,6 +2139,10 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>mo</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -1947,6 +2187,10 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>ćan,</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -1988,6 +2232,9 @@
             </Rest>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <text>Kralj</text>
+              </Lyrics>
             <Note>
               <pitch>68</pitch>
               <tpc>22</tpc>
@@ -1997,6 +2244,11 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <ticks>120</ticks>
+              <ticks_f>1/16</ticks_f>
+              <text>je</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -2031,6 +2283,10 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>sr</text>
+              </Lyrics>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
@@ -2040,6 +2296,12 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks>120</ticks>
+              <ticks_f>1/16</ticks_f>
+              <text>ca</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -2083,6 +2345,11 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <ticks>240</ticks>
+              <ticks_f>1/8</ticks_f>
+              <text>mog</text>
+              </Lyrics>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
@@ -2129,6 +2396,10 @@
             </Rest>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>I</text>
+              </Lyrics>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
@@ -2172,6 +2443,12 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks>1200</ticks>
+              <ticks_f>5/8</ticks_f>
+              <text>sus</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -2278,6 +2555,29 @@
             </Rest>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Tko je taj Kralj slave koji ljubav daje mi                
+I govori mi uvijek svojim nježnim riječima                         
+Moja savjest, moje sjećanje oproštenje koje trebam                                  
+Tko je taj Kralj slave tko sve ovo daje mi          
+    
+Tko nad anđelima vlada blagoslovljen Princ                         
+On otkrio je nebo i sve tajne Njegove                      
+Moja duša čezne da upozna milost svu                      
+Tko je taj Kralj slave Spasitelj i Božji Sin                
+    
+Ime mu je Isus dragocjen je On                
+Gospod svemoćan, Kralj je srca mog, Isus                   
+    
+Tko je taj Kralj slave veličanstven, snage pun                   
+Neizmjerno mudar i prepun milosti                         
+Gospod zemlje je i neba nad stvorenjem vlada svim                      
+On je taj kralj slave 0n je sve što treba mi</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>
