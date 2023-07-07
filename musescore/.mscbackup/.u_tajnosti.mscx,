@@ -113,14 +113,14 @@
       <Measure>
         <voice>
           <KeySig>
-            <accidental>-6</accidental>
+            <accidental>6</accidental>
             </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
           <Harmony>
-            <root>8</root>
+            <root>20</root>
             </Harmony>
           <Tempo>
             <tempo>1.55</tempo>
@@ -138,7 +138,7 @@
             <durationType>16th</durationType>
             <Note>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -147,7 +147,7 @@
             <durationType>eighth</durationType>
             <Note>
               <pitch>68</pitch>
-              <tpc>10</tpc>
+              <tpc>22</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -156,13 +156,13 @@
             <durationType>16th</durationType>
             <Note>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Harmony>
-            <root>9</root>
+            <root>21</root>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -171,7 +171,7 @@
             <durationType>16th</durationType>
             <Note>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -180,7 +180,7 @@
             <durationType>eighth</durationType>
             <Note>
               <pitch>68</pitch>
-              <tpc>10</tpc>
+              <tpc>22</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -199,7 +199,7 @@
                   </next>
                 </Spanner>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -209,7 +209,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>7</root>
+            <root>19</root>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -223,7 +223,7 @@
                   </prev>
                 </Spanner>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -233,7 +233,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>8</root>
+            <root>20</root>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -242,7 +242,7 @@
             <durationType>16th</durationType>
             <Note>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -251,7 +251,7 @@
             <durationType>eighth</durationType>
             <Note>
               <pitch>68</pitch>
-              <tpc>10</tpc>
+              <tpc>22</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -260,13 +260,13 @@
             <durationType>16th</durationType>
             <Note>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Harmony>
-            <root>9</root>
+            <root>21</root>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -275,7 +275,7 @@
             <durationType>16th</durationType>
             <Note>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -284,7 +284,7 @@
             <durationType>eighth</durationType>
             <Note>
               <pitch>68</pitch>
-              <tpc>10</tpc>
+              <tpc>22</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -303,7 +303,7 @@
                   </next>
                 </Spanner>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -311,9 +311,12 @@
           </voice>
         </Measure>
       <Measure>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Harmony>
-            <root>7</root>
+            <root>19</root>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -327,170 +330,11 @@
                   </prev>
                 </Spanner>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <root>8</root>
-            </Harmony>
-          <Rest>
-            <durationType>16th</durationType>
-            </Rest>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>66</pitch>
-              <tpc>8</tpc>
-              <velocity>100</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>66</pitch>
-              <tpc>8</tpc>
-              <velocity>100</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/16</fractions>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
-              <velocity>100</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/16</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
-              <velocity>100</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <dots>1</dots>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
-              <velocity>100</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Harmony>
-            <root>9</root>
-            </Harmony>
-          <Rest>
-            <durationType>16th</durationType>
-            </Rest>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>66</pitch>
-              <tpc>8</tpc>
-              <velocity>100</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>66</pitch>
-              <tpc>8</tpc>
-              <velocity>100</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/16</fractions>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
-              <velocity>100</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/16</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
-              <velocity>100</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <dots>1</dots>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
-              <velocity>100</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <root>7</root>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>66</pitch>
-              <tpc>8</tpc>
-              <velocity>100</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
           <BarLine>
             <subtype>double</subtype>
             </BarLine>
@@ -499,123 +343,56 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>11</root>
-            <name>m</name>
+            <root>20</root>
             </Harmony>
           <RehearsalMark>
             <offset x="-2.75806" y="-3.43548"/>
             <text>B</text>
             </RehearsalMark>
           <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
-              <velocity>100</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
-              <velocity>100</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
-              <velocity>100</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
-              <velocity>100</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Harmony>
-            <root>12</root>
-            <name>m</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
-              <velocity>100</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
-              <velocity>100</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <root>7</root>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>66</pitch>
-              <tpc>8</tpc>
-              <velocity>100</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <root>8</root>
-            </Harmony>
-          <Rest>
             <durationType>16th</durationType>
             </Rest>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <text>U</text>
+              </Lyrics>
             <Note>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>ti</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>naj</text>
+              </Lyrics>
             <Note>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>ši</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>middle</syllabic>
+              <text>vi</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -627,7 +404,7 @@
                   </next>
                 </Spanner>
               <pitch>68</pitch>
-              <tpc>10</tpc>
+              <tpc>22</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -643,7 +420,7 @@
                   </prev>
                 </Spanner>
               <pitch>68</pitch>
-              <tpc>10</tpc>
+              <tpc>22</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -651,51 +428,79 @@
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>ni,</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <text>ši</text>
+              </Lyrics>
             <Note>
               <pitch>70</pitch>
-              <tpc>12</tpc>
+              <tpc>24</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Harmony>
-            <root>9</root>
+            <root>21</root>
             </Harmony>
           <Rest>
-            <durationType>eighth</durationType>
+            <durationType>16th</durationType>
             </Rest>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <text>i</text>
+              </Lyrics>
             <Note>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <text>u</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>ja</text>
+              </Lyrics>
             <Note>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>taj</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>tra</text>
+              </Lyrics>
             <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/16</fractions>
+                    </location>
+                  </next>
+                </Spanner>
               <pitch>68</pitch>
-              <tpc>10</tpc>
-              <velocity>100</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <tpc>22</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -704,17 +509,178 @@
             <durationType>16th</durationType>
             <Note>
               <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
+                <prev>
                   <location>
-                    <measures>1</measures>
-                    <fractions>-15/16</fractions>
+                    <fractions>-1/16</fractions>
                     </location>
-                  </next>
+                  </prev>
                 </Spanner>
-              <pitch>71</pitch>
-              <tpc>7</tpc>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <velocity>100</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Chord>
+            <dots>1</dots>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>no</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
+              <text>žim</text>
+              </Lyrics>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>24</tpc>
+              <velocity>100</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <root>19</root>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>sti</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>cilj</text>
+              </Lyrics>
+            <Note>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              <velocity>100</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>half</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <root>23</root>
+            <name>m</name>
+            </Harmony>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Lyrics>
+              <text>U</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>pri</text>
+              </Lyrics>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>24</tpc>
+              <velocity>100</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>ti</text>
+              </Lyrics>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>24</tpc>
+              <velocity>100</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>ši</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>middle</syllabic>
+              <text>mi</text>
+              </Lyrics>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>24</tpc>
+              <velocity>100</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/8</ticks_f>
+              <text>ni</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <ticks_f>0/8</ticks_f>
+              <text>ti</text>
+              </Lyrics>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>24</tpc>
+              <velocity>100</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Harmony>
+            <root>24</root>
+            <name>m</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>Ti</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>na</text>
+              </Lyrics>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <velocity>100</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>si</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>middle</syllabic>
+              <text>gra</text>
+              </Lyrics>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>24</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -727,7 +693,250 @@
           </LayoutBreak>
         <voice>
           <Harmony>
-            <root>7</root>
+            <root>19</root>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Lyrics>
+              <text>tu</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <text>du</text>
+              </Lyrics>
+            <Note>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              <velocity>100</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>half</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <root>20</root>
+            </Harmony>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Lyrics>
+              <text>I</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>gu</text>
+              </Lyrics>
+            <Note>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              <velocity>100</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>Po</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <ticks_f>0/8</ticks_f>
+              <text>ram</text>
+              </Lyrics>
+            <Note>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              <velocity>100</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>taj</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>na</text>
+              </Lyrics>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/16</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <velocity>100</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/16</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <velocity>100</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Chord>
+            <dots>1</dots>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>no,</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <text>prijed</text>
+              </Lyrics>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>24</tpc>
+              <velocity>100</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Harmony>
+            <root>21</root>
+            </Harmony>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Lyrics>
+              <text>i</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>mi</text>
+              </Lyrics>
+            <Note>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              <velocity>100</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Lyrics>
+              <text>u</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
+              <text>čem</text>
+              </Lyrics>
+            <Note>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              <velocity>100</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>ti</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>sva</text>
+              </Lyrics>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <velocity>100</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
+              <text>hi</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
+              <text>ku</text>
+              </Lyrics>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>24</tpc>
+              <velocity>100</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Lyrics>
+              <ticks>120</ticks>
+              <ticks_f>1/16</ticks_f>
+              <text>čas</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>pre</text>
+              </Lyrics>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    <fractions>-15/16</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              <velocity>100</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <root>19</root>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -741,31 +950,57 @@
                   </prev>
                 </Spanner>
               <pitch>71</pitch>
-              <tpc>7</tpc>
+              <tpc>19</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>če</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>middle</syllabic>
+              <text>pre</text>
+              </Lyrics>
             <Note>
               <pitch>70</pitch>
-              <tpc>12</tpc>
+              <tpc>24</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/8</ticks_f>
+              <text>kam</text>
+              </Lyrics>
             <Note>
               <pitch>68</pitch>
-              <tpc>10</tpc>
+              <tpc>22</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <ticks>120</ticks>
+              <ticks_f>1/16</ticks_f>
+              <text>te</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <ticks>120</ticks>
+              <ticks_f>1/16</ticks_f>
+              <text>ku</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -777,7 +1012,7 @@
                   </next>
                 </Spanner>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -793,13 +1028,13 @@
                   </prev>
                 </Spanner>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Harmony>
-            <root>10</root>
+            <root>22</root>
             <name>m</name>
             </Harmony>
           <Rest>
@@ -810,66 +1045,102 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>11</root>
+            <root>23</root>
             <name>m</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>že</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>že</text>
+              </Lyrics>
             <Note>
               <pitch>70</pitch>
-              <tpc>12</tpc>
-              <velocity>100</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <tpc>24</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <text>lim</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <text>lim</text>
+              </Lyrics>
             <Note>
               <pitch>70</pitch>
-              <tpc>12</tpc>
+              <tpc>24</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <text>Te</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>Te</text>
+              </Lyrics>
             <Note>
               <pitch>70</pitch>
-              <tpc>12</tpc>
+              <tpc>24</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Harmony>
-            <root>12</root>
+            <root>24</root>
             <name>m</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>po</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>po</text>
+              </Lyrics>
             <Note>
               <pitch>68</pitch>
-              <tpc>10</tpc>
+              <tpc>22</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>zna</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>middle</syllabic>
+              <text>zna</text>
+              </Lyrics>
             <Note>
               <pitch>70</pitch>
-              <tpc>12</tpc>
+              <tpc>24</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -879,13 +1150,22 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>7</root>
+            <root>19</root>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>ti</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <text>ti</text>
+              </Lyrics>
             <Note>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -898,65 +1178,101 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>11</root>
+            <root>23</root>
             <name>m</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>že</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>že</text>
+              </Lyrics>
             <Note>
               <pitch>70</pitch>
-              <tpc>12</tpc>
-              <velocity>100</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <tpc>24</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <text>lim</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <text>lim</text>
+              </Lyrics>
             <Note>
               <pitch>70</pitch>
-              <tpc>12</tpc>
+              <tpc>24</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <text>Te</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>Te</text>
+              </Lyrics>
             <Note>
               <pitch>70</pitch>
-              <tpc>12</tpc>
+              <tpc>24</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Harmony>
-            <root>9</root>
+            <root>21</root>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>po</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>po</text>
+              </Lyrics>
             <Note>
               <pitch>68</pitch>
-              <tpc>10</tpc>
+              <tpc>22</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>zna</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>middle</syllabic>
+              <text>zna</text>
+              </Lyrics>
             <Note>
               <pitch>70</pitch>
-              <tpc>12</tpc>
+              <tpc>24</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -964,18 +1280,24 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Harmony>
-            <root>7</root>
+            <root>19</root>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>ti</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <text>ti</text>
+              </Lyrics>
             <Note>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -983,16 +1305,13 @@
           <Rest>
             <durationType>half</durationType>
             </Rest>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
         <startRepeat/>
         <voice>
           <Harmony>
-            <root>8</root>
+            <root>20</root>
             </Harmony>
           <RehearsalMark>
             <text>C</text>
@@ -1005,13 +1324,13 @@
             <fractions>-3/4</fractions>
             </location>
           <Harmony>
-            <root>9</root>
+            <root>21</root>
             </Harmony>
           <location>
             <fractions>3/16</fractions>
             </location>
           <Harmony>
-            <root>7</root>
+            <root>19</root>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
@@ -1028,7 +1347,7 @@
           </LayoutBreak>
         <voice>
           <Harmony>
-            <root>8</root>
+            <root>20</root>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -1038,13 +1357,13 @@
             <fractions>-3/4</fractions>
             </location>
           <Harmony>
-            <root>9</root>
+            <root>21</root>
             </Harmony>
           <location>
             <fractions>3/16</fractions>
             </location>
           <Harmony>
-            <root>7</root>
+            <root>19</root>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
@@ -1057,7 +1376,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>8</root>
+            <root>20</root>
             </Harmony>
           <RehearsalMark>
             <text>D</text>
@@ -1067,48 +1386,68 @@
             </Rest>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>že</text>
+              </Lyrics>
             <Note>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <text>lim</text>
+              </Lyrics>
             <Note>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <text>Te</text>
+              </Lyrics>
             <Note>
               <pitch>73</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Harmony>
-            <root>9</root>
+            <root>21</root>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>spo</text>
+              </Lyrics>
             <Note>
               <pitch>73</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>znat</text>
+              </Lyrics>
             <Note>
               <pitch>68</pitch>
-              <tpc>10</tpc>
+              <tpc>22</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -1118,7 +1457,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>11</root>
+            <root>23</root>
             <name>m</name>
             </Harmony>
           <Rest>
@@ -1126,46 +1465,68 @@
             </Rest>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>že</text>
+              </Lyrics>
             <Note>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <text>lim</text>
+              </Lyrics>
             <Note>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <text>Ti</text>
+              </Lyrics>
             <Note>
               <pitch>73</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Harmony>
-            <root>7</root>
+            <root>19</root>
             </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>ču</text>
+              </Lyrics>
             <Note>
               <pitch>73</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks>120</ticks>
+              <ticks_f>1/16</ticks_f>
+              <text>ti</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -1177,7 +1538,7 @@
                   </next>
                 </Spanner>
               <pitch>71</pitch>
-              <tpc>7</tpc>
+              <tpc>19</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -1193,16 +1554,19 @@
                   </prev>
                 </Spanner>
               <pitch>71</pitch>
-              <tpc>7</tpc>
+              <tpc>19</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <text>glas</text>
+              </Lyrics>
             <Note>
               <pitch>70</pitch>
-              <tpc>12</tpc>
+              <tpc>24</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -1212,55 +1576,76 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>8</root>
+            <root>20</root>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>bo</text>
+              </Lyrics>
             <Note>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <text>lje</text>
+              </Lyrics>
             <Note>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>u</text>
+              </Lyrics>
             <Note>
               <pitch>73</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Harmony>
-            <root>9</root>
+            <root>21</root>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>po</text>
+              </Lyrics>
             <Note>
               <pitch>73</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>zna</text>
+              </Lyrics>
             <Note>
               <pitch>68</pitch>
-              <tpc>10</tpc>
+              <tpc>22</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -1273,13 +1658,17 @@
           </LayoutBreak>
         <voice>
           <Harmony>
-            <root>7</root>
+            <root>19</root>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>ti</text>
+              </Lyrics>
             <Note>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -1289,55 +1678,76 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>8</root>
+            <root>20</root>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>Te</text>
+              </Lyrics>
             <Note>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <text>be</text>
+              </Lyrics>
             <Note>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>do</text>
+              </Lyrics>
             <Note>
               <pitch>73</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Harmony>
-            <root>9</root>
+            <root>21</root>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>dir</text>
+              </Lyrics>
             <Note>
               <pitch>73</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>nut</text>
+              </Lyrics>
             <Note>
               <pitch>68</pitch>
-              <tpc>10</tpc>
+              <tpc>22</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -1347,7 +1757,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>11</root>
+            <root>23</root>
             <name>m</name>
             </Harmony>
           <Rest>
@@ -1355,46 +1765,66 @@
             </Rest>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>Li</text>
+              </Lyrics>
             <Note>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <text>ce</text>
+              </Lyrics>
             <Note>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <text>ti</text>
+              </Lyrics>
             <Note>
               <pitch>73</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Harmony>
-            <root>7</root>
+            <root>19</root>
             </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>vi</text>
+              </Lyrics>
             <Note>
               <pitch>73</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>dje</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -1406,7 +1836,7 @@
                   </next>
                 </Spanner>
               <pitch>71</pitch>
-              <tpc>7</tpc>
+              <tpc>19</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -1422,16 +1852,20 @@
                   </prev>
                 </Spanner>
               <pitch>71</pitch>
-              <tpc>7</tpc>
+              <tpc>19</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>ti</text>
+              </Lyrics>
             <Note>
               <pitch>70</pitch>
-              <tpc>12</tpc>
+              <tpc>24</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -1441,55 +1875,76 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>8</root>
+            <root>20</root>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>bo</text>
+              </Lyrics>
             <Note>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <text>lje</text>
+              </Lyrics>
             <Note>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>u</text>
+              </Lyrics>
             <Note>
               <pitch>73</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Harmony>
-            <root>9</root>
+            <root>21</root>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>po</text>
+              </Lyrics>
             <Note>
               <pitch>73</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>zna</text>
+              </Lyrics>
             <Note>
               <pitch>68</pitch>
-              <tpc>10</tpc>
+              <tpc>22</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -1499,13 +1954,17 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>7</root>
+            <root>19</root>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>ti</text>
+              </Lyrics>
             <Note>
               <pitch>66</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>

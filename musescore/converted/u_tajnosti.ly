@@ -578,6 +578,15 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="U"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
+%% Lyrics(text='Ci', syllabic='begin', ticks='', ticks_f='', no='1')
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="Ci"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note/pitch text="66"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Note/pitch
@@ -601,12 +610,14 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='naj', syllabic='begin', ticks='', ticks_f='', no='1')
+%% Lyrics(text='lju', syllabic='end', ticks='', ticks_f='0/8', no='1')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="naj"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f text="0/8"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="lju"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -632,12 +643,12 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='vi', syllabic='middle', ticks='', ticks_f='', no='1')
+%% Lyrics(text='te', syllabic='begin', ticks='', ticks_f='', no='1')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="middle"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="vi"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="te"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -700,12 +711,12 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='ši', syllabic='end', ticks='', ticks_f='', no='1')
+%% Lyrics(text='žim,', syllabic='end', ticks='', ticks_f='', no='1')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="ši"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="žim,"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -738,6 +749,15 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="i"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
+%% Lyrics(text='Bo', syllabic='begin', ticks='', ticks_f='', no='1')
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="Bo"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note/pitch text="66"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Note/pitch
@@ -759,10 +779,14 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='ja', syllabic='', ticks='', ticks_f='', no='1')
+%% Lyrics(text='že,', syllabic='end', ticks='', ticks_f='0/8', no='1')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="ja"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f text="0/8"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="že,"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -788,12 +812,12 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='tra', syllabic='begin', ticks='', ticks_f='', no='1')
+%% Lyrics(text='naj', syllabic='begin', ticks='', ticks_f='', no='1')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="tra"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="naj"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -856,14 +880,12 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='žim', syllabic='end', ticks='', ticks_f='0/16', no='1')
+%% Lyrics(text='vi', syllabic='middle', ticks='', ticks_f='', no='1')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="middle"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f text="0/16"
-%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="žim"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="vi"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -892,17 +914,19 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="half"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='sti', syllabic='end', ticks='', ticks_f='', no='')
+%% Lyrics(text='sti,', syllabic='end', ticks='', ticks_f='', no='')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="sti"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="sti,"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='cilj', syllabic='', ticks='', ticks_f='', no='1')
+%% Lyrics(text='šem,', syllabic='end', ticks='', ticks_f='', no='1')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="cilj"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="šem,"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -943,17 +967,17 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="16th"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='U', syllabic='', ticks='', ticks_f='', no='')
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="U"
+%% Lyrics(text='u', syllabic='', ticks='', ticks_f='', no='')
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="u"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='pri', syllabic='begin', ticks='', ticks_f='', no='1')
+%% Lyrics(text='vjen', syllabic='begin', ticks='', ticks_f='', no='1')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="pri"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="vjen"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -972,10 +996,21 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="16th"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='ti', syllabic='begin', ticks='', ticks_f='', no='')
+%% Lyrics(text='sa', syllabic='begin', ticks='', ticks_f='', no='')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="ti"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="sa"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
+%% Lyrics(text='cu', syllabic='end', ticks='', ticks_f='0/16', no='1')
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f text="0/16"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="cu"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -994,19 +1029,19 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='ši', syllabic='middle', ticks='', ticks_f='', no='')
+%% Lyrics(text='mo', syllabic='middle', ticks='', ticks_f='', no='')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="middle"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="ši"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="mo"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='mi', syllabic='middle', ticks='', ticks_f='', no='1')
+%% Lyrics(text='ne', syllabic='begin', ticks='', ticks_f='', no='1')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="middle"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="mi"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="ne"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -1025,23 +1060,21 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='ni', syllabic='end', ticks='', ticks_f='0/8', no='')
+%% Lyrics(text='ći', syllabic='end', ticks='', ticks_f='0/8', no='')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f text="0/8"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="ni"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="ći"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='ti', syllabic='end', ticks='', ticks_f='0/8', no='1')
+%% Lyrics(text='ra', syllabic='middle', ticks='', ticks_f='', no='1')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="middle"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f text="0/8"
-%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="ti"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="ra"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -1072,12 +1105,12 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='na', syllabic='begin', ticks='', ticks_f='', no='1')
+%% Lyrics(text='spa', syllabic='middle', ticks='', ticks_f='', no='1')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="middle"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="na"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="spa"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -1101,12 +1134,12 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='gra', syllabic='middle', ticks='', ticks_f='', no='1')
+%% Lyrics(text='dlji', syllabic='middle', ticks='', ticks_f='', no='1')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="middle"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="gra"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="dlji"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -1140,17 +1173,17 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="half"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='tu', syllabic='', ticks='', ticks_f='', no='')
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="tu"
+%% Lyrics(text='tu.', syllabic='', ticks='', ticks_f='', no='')
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="tu."
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='du', syllabic='end', ticks='', ticks_f='', no='1')
+%% Lyrics(text='vom.', syllabic='end', ticks='', ticks_f='', no='1')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="du"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="vom."
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -1189,17 +1222,19 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="16th"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='I', syllabic='', ticks='', ticks_f='', no='')
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="I"
+%% Lyrics(text='Ka', syllabic='begin', ticks='', ticks_f='', no='')
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="Ka"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='gu', syllabic='begin', ticks='', ticks_f='', no='1')
+%% Lyrics(text='Gu', syllabic='begin', ticks='', ticks_f='', no='1')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="gu"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="Gu"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -1218,10 +1253,12 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="16th"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='Po', syllabic='begin', ticks='', ticks_f='', no='')
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
+%% Lyrics(text='da', syllabic='end', ticks='', ticks_f='0/8', no='')
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="Po"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f text="0/8"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="da"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -1251,10 +1288,10 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="16th"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='taj', syllabic='middle', ticks='', ticks_f='', no='')
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="middle"
+%% Lyrics(text='mo', syllabic='begin', ticks='', ticks_f='', no='')
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="taj"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="mo"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -1319,19 +1356,19 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='no,', syllabic='end', ticks='', ticks_f='', no='')
+%% Lyrics(text='lim,', syllabic='end', ticks='', ticks_f='', no='')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="no,"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="lim,"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='prijed', syllabic='end', ticks='', ticks_f='', no='1')
+%% Lyrics(text='prijed,', syllabic='end', ticks='', ticks_f='', no='1')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="prijed"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="prijed,"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -1360,17 +1397,17 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="16th"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='i', syllabic='', ticks='', ticks_f='', no='')
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="i"
+%% Lyrics(text='u', syllabic='', ticks='', ticks_f='', no='')
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="u"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='mi', syllabic='begin', ticks='', ticks_f='', no='1')
+%% Lyrics(text='i', syllabic='begin', ticks='', ticks_f='', no='1')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="mi"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="i"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -1389,19 +1426,21 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="16th"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='u', syllabic='', ticks='', ticks_f='', no='')
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="u"
+%% Lyrics(text='ti', syllabic='begin', ticks='', ticks_f='', no='')
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="ti"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='čem', syllabic='end', ticks='', ticks_f='0/16', no='1')
+%% Lyrics(text='dem', syllabic='end', ticks='', ticks_f='0/16', no='1')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f text="0/16"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="čem"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="dem"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -1420,19 +1459,19 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="16th"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='ti', syllabic='begin', ticks='', ticks_f='', no='')
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
+%% Lyrics(text='ši', syllabic='middle', ticks='', ticks_f='', no='')
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="middle"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="ti"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="ši"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='sva', syllabic='begin', ticks='', ticks_f='', no='1')
+%% Lyrics(text='pre', syllabic='begin', ticks='', ticks_f='', no='1')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="sva"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="pre"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -1451,23 +1490,23 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='hi', syllabic='end', ticks='', ticks_f='0/16', no='')
+%% Lyrics(text='ni', syllabic='end', ticks='', ticks_f='0/16', no='')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f text="0/16"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="hi"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="ni"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='ku', syllabic='end', ticks='', ticks_f='0/16', no='1')
+%% Lyrics(text='ko', syllabic='end', ticks='', ticks_f='0/16', no='1')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f text="0/16"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="ku"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="ko"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -1486,12 +1525,12 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="16th"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='čas', syllabic='', ticks='120', ticks_f='1/16', no='')
+%% Lyrics(text='glas', syllabic='', ticks='120', ticks_f='1/16', no='')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks text="120"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f text="1/16"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="čas"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="glas"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -1568,10 +1607,10 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="16th"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='če', syllabic='begin', ticks='', ticks_f='', no='')
+%% Lyrics(text='slu', syllabic='begin', ticks='', ticks_f='', no='')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="če"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="slu"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -1599,12 +1638,23 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="16th"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='kam', syllabic='end', ticks='', ticks_f='0/8', no='')
+%% Lyrics(text='šam', syllabic='end', ticks='', ticks_f='0/8', no='')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f text="0/8"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="kam"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="šam"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
+%% Lyrics(text='ka', syllabic='end', ticks='', ticks_f='0/8', no='1')
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f text="0/8"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="ka"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -1623,25 +1673,23 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="16th"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='te', syllabic='', ticks='120', ticks_f='1/16', no='')
+%% Lyrics(text='tvoj.', syllabic='', ticks='120', ticks_f='1/16', no='')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks text="120"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f text="1/16"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="te"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="tvoj."
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='ku', syllabic='end', ticks='120', ticks_f='1/16', no='1')
+%% Lyrics(text='svih.', syllabic='', ticks='120', ticks_f='1/16', no='1')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
-%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks text="120"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f text="1/16"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="ku"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="svih."
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -1720,23 +1768,23 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest/durationType
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
-%% Chord(duration_type='eighth', note_pitch='70', note_tpc='24', dots='')
-%% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
+%% Chord(duration_type='16th', note_pitch='70', note_tpc='24', dots='')
+%% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="16th"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='že', syllabic='begin', ticks='', ticks_f='', no='')
+%% Lyrics(text='Že', syllabic='begin', ticks='', ticks_f='', no='')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="že"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="Že"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='že', syllabic='begin', ticks='', ticks_f='', no='1')
+%% Lyrics(text='Že', syllabic='begin', ticks='', ticks_f='', no='1')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="že"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="Že"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -1751,25 +1799,25 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Note
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
-%% Chord(duration_type='eighth', note_pitch='70', note_tpc='24', dots='')
-%% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
+%% Chord(duration_type='16th', note_pitch='70', note_tpc='24', dots='')
+%% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="16th"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='lim', syllabic='end', ticks='', ticks_f='0/4', no='')
+%% Lyrics(text='lim', syllabic='end', ticks='', ticks_f='0/16', no='')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f text="0/4"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f text="0/16"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="lim"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='lim', syllabic='end', ticks='', ticks_f='0/4', no='1')
+%% Lyrics(text='lim', syllabic='end', ticks='', ticks_f='0/16', no='1')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f text="0/4"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f text="0/16"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="lim"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
@@ -1779,10 +1827,6 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Note/pitch
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note/tpc text="24"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Note/tpc
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Note/velocity text="100"
-%% <- /museScore/Score/Staff/Measure/voice/Chord/Note/velocity
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Note/veloType text="user"
-%% <- /museScore/Score/Staff/Measure/voice/Chord/Note/veloType
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Note
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
@@ -1812,6 +1856,37 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Note/veloType
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Note
 %% <- /museScore/Score/Staff/Measure/voice/Chord
+%% -> /museScore/Score/Staff/Measure/voice/Chord
+%% Chord(duration_type='eighth', note_pitch='70', note_tpc='24', dots='')
+%% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
+%% Lyrics(text='u', syllabic='begin', ticks='', ticks_f='', no='')
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="u"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
+%% Lyrics(text='u', syllabic='begin', ticks='', ticks_f='', no='1')
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="u"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Note
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Note/pitch text="70"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Note/pitch
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Note/tpc text="24"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Note/tpc
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Note/velocity text="100"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Note/velocity
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Note/veloType text="user"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Note/veloType
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Note
+%% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Harmony
 %% Harmony(root='24', root_case='', name='m', base='')
 %% -> /museScore/Score/Staff/Measure/voice/Harmony/root text="24"
@@ -1824,17 +1899,17 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='po', syllabic='begin', ticks='', ticks_f='', no='')
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
+%% Lyrics(text='po', syllabic='middle', ticks='', ticks_f='', no='')
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="middle"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="po"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='po', syllabic='begin', ticks='', ticks_f='', no='1')
+%% Lyrics(text='po', syllabic='middle', ticks='', ticks_f='', no='1')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="middle"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="po"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
@@ -1896,19 +1971,19 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="half"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='ti', syllabic='end', ticks='', ticks_f='', no='')
+%% Lyrics(text='ti.', syllabic='end', ticks='', ticks_f='', no='')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="ti"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="ti."
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='ti', syllabic='end', ticks='', ticks_f='', no='1')
+%% Lyrics(text='ti.', syllabic='end', ticks='', ticks_f='', no='1')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="ti"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="ti."
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -1945,23 +2020,23 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest/durationType
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
-%% Chord(duration_type='eighth', note_pitch='70', note_tpc='24', dots='')
-%% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
+%% Chord(duration_type='16th', note_pitch='70', note_tpc='24', dots='')
+%% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="16th"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='že', syllabic='begin', ticks='', ticks_f='', no='')
+%% Lyrics(text='Že', syllabic='begin', ticks='', ticks_f='', no='')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="že"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="Že"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='že', syllabic='begin', ticks='', ticks_f='', no='1')
+%% Lyrics(text='Že', syllabic='begin', ticks='', ticks_f='', no='1')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="že"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="Že"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -1976,25 +2051,25 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Note
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
-%% Chord(duration_type='eighth', note_pitch='70', note_tpc='24', dots='')
-%% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
+%% Chord(duration_type='16th', note_pitch='70', note_tpc='24', dots='')
+%% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="16th"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='lim', syllabic='end', ticks='', ticks_f='0/4', no='')
+%% Lyrics(text='lim', syllabic='end', ticks='', ticks_f='0/16', no='')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f text="0/4"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f text="0/16"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="lim"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='lim', syllabic='end', ticks='', ticks_f='0/4', no='1')
+%% Lyrics(text='lim', syllabic='end', ticks='', ticks_f='0/16', no='1')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f text="0/4"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f text="0/16"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="lim"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
@@ -2004,10 +2079,6 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Note/pitch
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note/tpc text="24"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Note/tpc
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Note/velocity text="100"
-%% <- /museScore/Score/Staff/Measure/voice/Chord/Note/velocity
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Note/veloType text="user"
-%% <- /museScore/Score/Staff/Measure/voice/Chord/Note/veloType
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Note
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
@@ -2037,6 +2108,37 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Note/veloType
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Note
 %% <- /museScore/Score/Staff/Measure/voice/Chord
+%% -> /museScore/Score/Staff/Measure/voice/Chord
+%% Chord(duration_type='eighth', note_pitch='70', note_tpc='24', dots='')
+%% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
+%% Lyrics(text='u', syllabic='begin', ticks='', ticks_f='', no='')
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="u"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
+%% Lyrics(text='u', syllabic='begin', ticks='', ticks_f='', no='1')
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="u"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Note
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Note/pitch text="70"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Note/pitch
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Note/tpc text="24"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Note/tpc
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Note/velocity text="100"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Note/velocity
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Note/veloType text="user"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Note/veloType
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Note
+%% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Harmony
 %% Harmony(root='21', root_case='', name='', base='')
 %% -> /museScore/Score/Staff/Measure/voice/Harmony/root text="21"
@@ -2047,17 +2149,17 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='po', syllabic='begin', ticks='', ticks_f='', no='')
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
+%% Lyrics(text='po', syllabic='middle', ticks='', ticks_f='', no='')
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="middle"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="po"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='po', syllabic='begin', ticks='', ticks_f='', no='1')
+%% Lyrics(text='po', syllabic='middle', ticks='', ticks_f='', no='1')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="middle"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="po"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
@@ -2119,19 +2221,19 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="half"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='ti', syllabic='end', ticks='', ticks_f='', no='')
+%% Lyrics(text='ti.', syllabic='end', ticks='', ticks_f='', no='')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="ti"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="ti."
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='ti', syllabic='end', ticks='', ticks_f='', no='1')
+%% Lyrics(text='ti.', syllabic='end', ticks='', ticks_f='', no='1')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/no
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="ti"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="ti."
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -2283,10 +2385,10 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='že', syllabic='begin', ticks='', ticks_f='', no='')
+%% Lyrics(text='Že', syllabic='begin', ticks='', ticks_f='', no='')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="že"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="Že"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -2376,10 +2478,10 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='znat', syllabic='end', ticks='', ticks_f='', no='')
+%% Lyrics(text='znat.', syllabic='end', ticks='', ticks_f='', no='')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="znat"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="znat."
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -2415,10 +2517,10 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='že', syllabic='begin', ticks='', ticks_f='', no='')
+%% Lyrics(text='Že', syllabic='begin', ticks='', ticks_f='', no='')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="že"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="Že"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -2461,8 +2563,8 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='Ti', syllabic='', ticks='', ticks_f='', no='')
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="Ti"
+%% Lyrics(text='Tvoj', syllabic='', ticks='', ticks_f='', no='')
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="Tvoj"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -2571,8 +2673,8 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='glas', syllabic='', ticks='', ticks_f='', no='')
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="glas"
+%% Lyrics(text='glas,', syllabic='', ticks='', ticks_f='', no='')
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="glas,"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -2701,10 +2803,12 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='zna', syllabic='middle', ticks='', ticks_f='', no='')
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="middle"
+%% Lyrics(text='znat', syllabic='end', ticks='', ticks_f='0/4', no='')
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="zna"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f text="0/4"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="znat"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -2738,10 +2842,8 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="whole"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='ti', syllabic='end', ticks='', ticks_f='', no='')
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
-%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="ti"
+%% Lyrics(text='Te.', syllabic='', ticks='', ticks_f='', no='')
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="Te."
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -2775,10 +2877,10 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='Te', syllabic='begin', ticks='', ticks_f='', no='')
+%% Lyrics(text='Že', syllabic='begin', ticks='', ticks_f='', no='')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="Te"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="Že"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -2797,12 +2899,12 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='be', syllabic='end', ticks='', ticks_f='0/4', no='')
+%% Lyrics(text='lim', syllabic='end', ticks='', ticks_f='0/4', no='')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f text="0/4"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="be"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="lim"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -2821,10 +2923,8 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='do', syllabic='begin', ticks='', ticks_f='', no='')
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
-%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="do"
+%% Lyrics(text='te', syllabic='', ticks='', ticks_f='', no='')
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="te"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -2848,10 +2948,10 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='dir', syllabic='middle', ticks='', ticks_f='', no='')
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="middle"
+%% Lyrics(text='ta', syllabic='begin', ticks='', ticks_f='', no='')
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="begin"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="dir"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="ta"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -2870,10 +2970,10 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='nut', syllabic='end', ticks='', ticks_f='', no='')
+%% Lyrics(text='knut.', syllabic='end', ticks='', ticks_f='', no='')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="nut"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="knut."
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -3061,10 +3161,10 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='ti', syllabic='end', ticks='', ticks_f='', no='')
+%% Lyrics(text='ti,', syllabic='end', ticks='', ticks_f='', no='')
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="ti"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="ti,"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -3193,10 +3293,12 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='zna', syllabic='middle', ticks='', ticks_f='', no='')
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="middle"
+%% Lyrics(text='znat', syllabic='end', ticks='', ticks_f='0/4', no='')
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="zna"
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f text="0/4"
+%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/ticks_f
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="znat"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -3225,10 +3327,8 @@
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="whole"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
-%% Lyrics(text='ti', syllabic='end', ticks='', ticks_f='', no='')
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic text="end"
-%% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/syllabic
-%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="ti"
+%% Lyrics(text='Te.', syllabic='', ticks='', ticks_f='', no='')
+%% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text text="Te."
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics/text
 %% <- /museScore/Score/Staff/Measure/voice/Chord/Lyrics
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -3251,7 +3351,7 @@
 \include "deutsch.ly"
 jazzChords = {}
 aFourL = {}
-markMojPoc = {}
+markMoj = {}
 %\include "../config/include.ily"
 
 \layout {
@@ -3278,26 +3378,26 @@ staffOne = \relative c' {
   \key fis \major
   \time 4/4
   \tempo 4 = 93
-  \markMojPoc r4 fis16 gis8 fis16 r4 fis16 gis8 fis16 ~ |
+  \markMoj r4 fis16 gis8 fis16 r4 fis16 gis8 fis16 ~ |
   fis1 |
   r4 fis16 gis8 fis16 r4 fis16 gis8 fis16 ~ |
-  fis1 \bar "||" | \break
-  \markMojPoc r16 fis16 fis16 gis16 ~ gis16 ais8. r16 fis16 fis16 gis16 ~ gis16 ais8. |
+  fis1 \bar "||" |
+  \markMoj r16 fis16 fis16 gis16 ~ gis16 ais8. r16 fis16 fis16 gis16 ~ gis16 ais8. |
   fis2 r2 |
   r8 ais16 ais16 ais8 ais8 gis4 ais4 |
-  fis2 r2 | \break
+  fis2 r2 |
   r16 fis16 fis16 gis16 ~ gis16 ais8. r8 fis16 fis16 gis16 ais8 h16 ~ |
   h16 ais16 gis16 fis16 ~ fis4 r2 |
-  r8 ais8 ais8 ais8 gis4 ais4 |
+  r8 ais16 ais16 ais8 ais8 gis4 ais4 |
   fis2 r2 |
-  r8 ais8 ais8 ais8 gis4 ais4 |
+  r8 ais16 ais16 ais8 ais8 gis4 ais4 |
   fis2 r2 |
-  \markMojPoc r1 |
-  r1 \bar ":|." | \break
-  \markMojPoc r8 fis8 fis8 cis'8 cis4 gis4 |
+  \markMoj r1 |
+  r1 \bar ":|." |
+  \markMoj r8 fis8 fis8 cis'8 cis4 gis4 |
   r8 fis8 fis8 cis'8 cis8. h16 ~ h8 ais8 |
   r8 fis8 fis8 cis'8 cis4 gis4 |
-  fis1 | \break
+  fis1 |
   r8 fis8 fis8 cis'8 cis4 gis4 |
   r8 fis8 fis8 cis'8 cis8. h16 ~ h8 ais8 |
   r8 fis8 fis8 cis'8 cis4 gis4 |
@@ -3338,25 +3438,25 @@ lyricOneZero = \lyricmode {
   4 16 8 16 4 16 8 16 |
   1 |
   16 U16 ti16 -- ši16 -- 16 ni,8. 16 i16 u16 taj16 -- 16 no8. -- |
-  sti2 2 |
-  8 U16 ti16 -- ši8 -- ni8 Ti4 si4 |
-  tu2 2 |
-  16 I16 Po16 -- taj16 -- 16 no,8. 8 i16 u16 ti16 -- hi8 čas16 |
-  16 če16 -- kam16 te16 4 2 |
-  8 že8 -- lim8 Te8 po4 -- zna4 -- |
-  ti2 2 |
-  8 že8 -- lim8 Te8 po4 -- zna4 -- |
-  ti2 2 |
+  sti,2 2 |
+  8 u16 sa16 -- mo8 -- ći8 Ti4 si4 |
+  tu.2 2 |
+  16 Ka16 -- da16 mo16 -- 16 lim,8. 8 u16 ti16 -- ši16 -- ni8 glas16 |
+  16 slu16 -- šam16 tvoj.16 4 2 |
+  8 Že16 -- lim16 Te8 u8 -- po4 -- zna4 -- |
+  ti.2 2 |
+  8 Že16 -- lim16 Te8 u8 -- po4 -- zna4 -- |
+  ti.2 2 |
   1 |
   1 |
-  8 že8 -- lim8 Te8 spo4 -- znat4 |
-  8 že8 -- lim8 Ti8 ču8. -- ti16 8 glas8 |
-  8 bo8 -- lje8 u8 -- po4 -- zna4 -- |
-  ti1 |
-  8 Te8 -- be8 do8 -- dir4 -- nut4 |
-  8 Li8 -- ce8 ti8 vi8. -- dje16 -- 8 ti8 |
-  8 bo8 -- lje8 u8 -- po4 -- zna4 -- |
-  ti1 |
+  8 Že8 -- lim8 Te8 spo4 -- znat.4 |
+  8 Že8 -- lim8 Tvoj8 ču8. -- ti16 8 glas,8 |
+  8 bo8 -- lje8 u8 -- po4 -- znat4 |
+  Te.1 |
+  8 Že8 -- lim8 te8 ta4 -- knut.4 |
+  8 Li8 -- ce8 ti8 vi8. -- dje16 -- 8 ti,8 |
+  8 bo8 -- lje8 u8 -- po4 -- znat4 |
+  Te.1 |
 }
 
 lyricOneOne = \lyricmode {
@@ -3364,16 +3464,16 @@ lyricOneOne = \lyricmode {
   1 |
   4 16 8 16 4 16 8 16 |
   1 |
-  16 16 naj16 -- vi16 -- 16 ši8. 16 16 ja16 tra16 -- 16 žim8. |
-  cilj2 2 |
-  8 pri16 -- 16 mi8 -- ti8 na4 -- gra4 -- |
-  du2 2 |
-  16 gu16 -- ram16 na16 -- 16 prijed8. 8 mi16 -- čem16 sva16 -- ku8 pre16 -- |
-  16 pre16 -- 16 ku16 4 2 |
-  8 že8 -- lim8 Te8 po4 -- zna4 -- |
-  ti2 2 |
-  8 že8 -- lim8 Te8 po4 -- zna4 -- |
-  ti2 2 |
+  16 Ci16 -- lju16 te16 -- 16 žim,8. 16 Bo16 -- že,16 naj16 -- 16 vi8. -- |
+  šem,2 2 |
+  8 vjen16 -- cu16 ne8 -- ra8 -- spa4 -- dlji4 -- |
+  vom.2 2 |
+  16 Gu16 -- ram16 na16 -- 16 prijed,8. 8 i16 -- dem16 pre16 -- ko8 pre16 -- |
+  16 pre16 -- ka16 svih.16 4 2 |
+  8 Že16 -- lim16 Te8 u8 -- po4 -- zna4 -- |
+  ti.2 2 |
+  8 Že16 -- lim16 Te8 u8 -- po4 -- zna4 -- |
+  ti.2 2 |
   1 |
   1 |
   8 8 8 8 4 4 |
@@ -3388,9 +3488,9 @@ lyricOneOne = \lyricmode {
 
 \score {
     <<
-    \new ChordNames \harmonyOne
+    \new ChordNames { \jazzChords \harmonyOne }
     \new Staff { \staffOne }
-    \new Lyrics { \jazzChords \lyricOneZero }
-    \new Lyrics { \jazzChords \lyricOneOne }
+    \new Lyrics { \lyricOneZero }
+    \new Lyrics { \lyricOneOne }
     >>
 }
