@@ -134,8 +134,8 @@ breathemoj = {
   \noBreak
   \once \override Score.RehearsalMark.Y-offset = #0.1
   %\once \override Staff.BarLine #'extra-spacing-width = #'(-5 . 3)
-  \once \override Staff.BarLine #'extra-spacing-width = #'(0 . 0)
-  \once \override Staff.BarLine #'color = #(rgb-color 0.220 0.714 1)
+  \once \override Staff.BarLine.extra-spacing-width = #'(0 . 0)
+  \once \override Staff.BarLine.color = #(rgb-color 0.220 0.714 1)
   \once \override Staff.BarLine.bar-extent = #'(1.5 . 2.5)
   \bar "|"
   %\mark \default
@@ -155,7 +155,7 @@ markMoj = {
   \once \override Score.RehearsalMark.self-alignment-X = #RIGHT
   \once \override Score.RehearsalMark.Y-offset = #0.16
   %\once \override Staff.BarLine #'extra-spacing-width = #'(-5 . 3)
-  \once \override Staff.BarLine #'extra-spacing-width = #'(0 . 1.2)
+  \once \override Staff.BarLine.extra-spacing-width = #'(0 . 1.2)
   %\once \override Staff.BarLine #'color = #red
   %\once \override Staff.BarLine.bar-extent = #'(1.5 . 2.5)
   \bar "||"
@@ -176,7 +176,7 @@ markMojCenter = {
   \once \override Score.RehearsalMark.self-alignment-X = #CENTER
   %\once \override Score.RehearsalMark.Y-offset = #0.16
   %\once \override Staff.BarLine #'extra-spacing-width = #'(-5 . 3)
-  \once \override Staff.BarLine #'extra-spacing-width = #'(0 . 1.2)
+  \once \override Staff.BarLine.extra-spacing-width = #'(0 . 1.2)
   %\once \override Staff.BarLine #'color = #red
   %\once \override Staff.BarLine.bar-extent = #'(1.5 . 2.5)
   \bar "||"
@@ -197,7 +197,7 @@ markMojPraz = {
   \once \override Score.RehearsalMark.self-alignment-X = #RIGHT
   \once \override Score.RehearsalMark.Y-offset = #0.16
   %\once \override Staff.BarLine #'extra-spacing-width = #'(-5 . 3)
-  \once \override Staff.BarLine #'extra-spacing-width = #'(0 . 1.2)
+  \once \override Staff.BarLine.extra-spacing-width = #'(0 . 1.2)
   %\once \override Staff.BarLine #'color = #red
   %\once \override Staff.BarLine.bar-extent = #'(1.5 . 2.5)
   \bar ""
@@ -218,7 +218,7 @@ markMojPon = {
   \once \override Score.RehearsalMark.self-alignment-X = #CENTER
   %\once \override Score.RehearsalMark.Y-offset = #0.16
   %\once \override Staff.BarLine #'extra-spacing-width = #'(-5 . 3)
-  \once \override Staff.BarLine #'extra-spacing-width = #'(0 . 1.2)
+  \once \override Staff.BarLine.extra-spacing-width = #'(0 . 1.2)
   %\once \override Staff.BarLine #'color = #red
   %\once \override Staff.BarLine.bar-extent = #'(1.5 . 2.5)
   \bar ":|."
@@ -239,7 +239,7 @@ markMojPonn = {
   \once \override Score.RehearsalMark.self-alignment-X = #CENTER
   %\once \override Score.RehearsalMark.Y-offset = #2
   %\once \override Staff.BarLine #'extra-spacing-width = #'(-5 . 3)
-  \once \override Staff.BarLine #'extra-spacing-width = #'(0 . 1.2)
+  \once \override Staff.BarLine.extra-spacing-width = #'(0 . 1.2)
   %\once \override Staff.BarLine #'color = #red
   %\once \override Staff.BarLine.bar-extent = #'(1.5 . 2.5)
   \bar ".|:"
@@ -260,7 +260,7 @@ markMojPonRight = {
   \once \override Score.RehearsalMark.self-alignment-X = #RIGHT
   \once \override Score.RehearsalMark.Y-offset = #0.16
   %\once \override Staff.BarLine #'extra-spacing-width = #'(-5 . 3)
-  \once \override Staff.BarLine #'extra-spacing-width = #'(0 . 1.2)
+  \once \override Staff.BarLine.extra-spacing-width = #'(0 . 1.2)
   %\once \override Staff.BarLine #'color = #red
   %\once \override Staff.BarLine.bar-extent = #'(1.5 . 2.5)
   \bar ":|."
@@ -412,7 +412,7 @@ aFourR = \paper {
 }
 
 \header {
-  copyright = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { Creative Commons—Attribution-ShareAlike 4.0 | Farmfest 2022 | Dravska 8, Pušćine } }
+  copyright = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { Creative Commons—Attribution-ShareAlike 4.0 | Farmfest 2023 | Dravska 8, Pušćine } }
   %tagline = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { Tekst i glazba: Tobi Wörner } }
   tagline = ""
 }

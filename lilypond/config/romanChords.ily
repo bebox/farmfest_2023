@@ -97,8 +97,8 @@ romanChordsAdd = #(append
 romanChords =
 {
   \set chordNameExceptions = #romanChordsAdd
-  \override ChordName #'font-size = 0
-  \override ChordName #'font-name = "Lilypond JohnSans White Pro"
+  \override ChordName.font-size = 0
+  \override ChordName.font-name = "Lilypond JohnSans White Pro"
   \set chordRootNamer = #my-chord-name->major-markup
   \set chordChanges = ##t
 }
