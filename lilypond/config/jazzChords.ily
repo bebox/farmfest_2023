@@ -39,10 +39,12 @@ jazzChordsMusic =
   <c e g b>-\markup { \sedam }
   <c e g h>-\markup { \maj \sedam }
   <c es g b>-\markup { \min \sedam }
+  <c e g b des'>-\markup { \sedam { \hspace #0 \translate #'(0.2 . 0.6) \epsfile #X #0.6 #"snizilica.eps" } \devet }
   <c es ges b>-\markup { \hdim }
   <c es ges heses>-\markup { \dim \sedam }
   <c f g des'>-\markup { \sus \chordFlat \devet }
   <c e g b d'>-\markup { \devet }
+  <c e g h d'>-\markup { \maj \devet }
   <c e g d'>-\markup { \add \devet }
   <c f g b>-\markup { \sedam \sus \cetri }
   %nonakordi
@@ -50,6 +52,7 @@ jazzChordsMusic =
   <c e fes g b>-\markup { \maj \chordFlat \cetri }
   <c e fis g b>-\markup { \maj \chordSharp \cetri }
   <c e g b d' f'>-\markup { \jedanaest }
+  <c es g b f'>-\markup { \min \sedam \add \jedanaest}
   % Add more as needed
 }
 
