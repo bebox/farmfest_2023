@@ -135,57 +135,57 @@ harmonyOne = \chordmode  {
 
 lyricOneZero = \lyricmode {
   \repeat unfold 18 { \skip1 }
-  Smi -- luj __ mi se 
+  Smi -- luj mi se 
   Gos -- po -- de, 
-  Po ne -- iz -- mjer -- noj __ 
-  lju -- ba -- vi, __ 
-  Po ve -- li -- kom __ smi -- 
-  lo -- va -- nju __ svom 
-  Sav moj grijeh __ 
-  iz -- bri -- ši! __ 
-  Bo -- že __ ti stvo -- 
-  ri __ 
-  mi Sr -- ce __ 
+  po ne -- iz -- mjer -- noj 
+  lju -- ba -- vi, 
+  po ve -- li -- kom smi -- 
+  lo -- va -- nju svom 
+  sav moj grijeh 
+  iz -- bri -- ši! 
+  Bo -- že ti stvo -- 
+  ri 
+  mi sr -- ce 
   ne -- vi -- 
-  no, I 
+  no, i 
   ob -- no -- 
   vi mi 
-  ra -- dost __ svog __ spa -- se -- 
-  nja! __ Žr -- tva __ na -- šem __ 
+  ra -- dost svog spa -- se -- 
+  nja! Žr -- tva na -- šem 
   Gos -- po -- du, 
-  Duh je ras -- ka -- jan __ i 
-  po -- ni -- zan. __ 
-  Te -- bi, __ sa -- 
-  mom __ te -- bi __ ja __ 
-  Sam zgrije -- ši -- o. __ 
+  duh je ras -- ka -- jan i 
+  po -- ni -- zan. 
+  Te -- bi, sa -- 
+  mom te -- bi ja 
+  sam zgrije -- ši -- o. 
   Ti 
-  me od sveg __ o -- 
-  pe -- ri, I bit __ 
-  ću bijel __ ko' snijeg! __ 
+  me od sveg o -- 
+  pe -- ri, i bit 
+  ću bijel ko' snijeg! 
   Ti 
-  me od sveg __ o -- 
-  pe -- ri, I bit __ 
-  ću bijel __ ko' snijeg! __ 
+  me od sveg o -- 
+  pe -- ri, i bit 
+  ću bijel ko' snijeg! 
   Ti 
-  me od sveg __ o -- 
-  pe -- ri, I bit __ 
-  ću bijel __ ko' snijeg! __ 
+  me od sveg o -- 
+  pe -- ri, i bit 
+  ću bijel ko' snijeg! 
   Ti 
-  me od sveg __ o -- 
+  me od sveg o -- 
   pe -- ri. 
 }
 
 lyricOneOne = \lyricmode {
   \repeat unfold 51 { \skip1 }
-  Bo -- že __ ti stvo -- 
-  ri __ 
-  mi Sr -- ce __ 
+  Bo -- že ti stvo -- 
+  ri 
+  mi sr -- ce 
   ne -- vi -- 
-  no, I 
+  no, i 
   ob -- no -- 
   vi mi 
-  ra -- dost __ mog __ spa -- se -- 
-  nja! __ 
+  ra -- dost mog spa -- se -- 
+  nja! 
 }
 
 \score {

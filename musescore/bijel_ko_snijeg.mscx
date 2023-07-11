@@ -548,7 +548,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text>Po</text>
+              <text>po</text>
               </Lyrics>
             <Note>
               <pitch>64</pitch>
@@ -707,7 +707,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text>Po</text>
+              <text>po</text>
               </Lyrics>
             <Note>
               <pitch>64</pitch>
@@ -848,7 +848,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text>Sav</text>
+              <text>sav</text>
               </Lyrics>
             <Note>
               <pitch>60</pitch>
@@ -1173,12 +1173,12 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>Sr</text>
+              <text>sr</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text>Sr</text>
+              <text>sr</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -1322,11 +1322,11 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text>I</text>
+              <text>i</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text>I</text>
+              <text>i</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -1777,7 +1777,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text>Duh</text>
+              <text>duh</text>
               </Lyrics>
             <Note>
               <pitch>60</pitch>
@@ -2140,7 +2140,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text>Sam</text>
+              <text>sam</text>
               </Lyrics>
             <Note>
               <pitch>60</pitch>
@@ -2396,7 +2396,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text>I</text>
+              <text>i</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -2697,7 +2697,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text>I</text>
+              <text>i</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -2999,7 +2999,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text>I</text>
+              <text>i</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
