@@ -53,29 +53,7 @@ staffOne = \relative c' {
   \markMoj r4 g16 f16 f16 f16 r8 r16 es16 as16 g16 g16 g16 |
   r2 r4 g16 f16 f16 f16 |
   r4 g16 f16 f16 f16 r8 r16 es16 as16 g16 g16 g16 |
-  r2 r8 r16 b,16 es16 (f16 )g16 f16 ~\bar "||" |
-  \markMoj f2 r8 r16 b,16 es16 f16 g16 f16 ~|
-  f8. es16 ~es4 r8 r16 b16 es16 f16 g16 f16 ~|
-  f2 r8 r16 b,16 es16 (f16 )g16 f16 ~|
-  f8. es16 ~es4 r8 r16 b16 es16 (f16 )g16 f16 ~|
-  f2 r8 es16 b16 es16 f16 g16 f16 ~|
-  f8. es16 ~es4 r4 as8 as16 as16 ~|
-  as16 g16 g4. ~g2 |
-  r1 \bar "||" |
-  \markMoj r8 r16 b16 ~b16 b8 b16 ~b8 as16 g16 f8. es16 ~|
-  es4 r16 b'8 b16 ~b8 as16 g16 f8. es16 ~|
-  es8 es16 b'16 ~b16 b8 b16 ~b8 as16 g16 f8. es16 ~|
-  es8 es16 b'16 ~b16 b8 b16 ~b8 as16 g16 f8. es16 ~|
-  es8. b'16 ~b16 b8 b16 ~b8 as16 g16 f8. es16 ~|
-  es4 r8 r16 b'16 ~b8 as16 g16 f8. es16 ~|
-  es8 es16 b'16 ~b16 b8 b16 ~b8 as16 g16 f8. es16 ~|
-  es8 es16 b'16 ~b16 b8 b16 ~b8 as16 g16 f8. es16 \bar "||" |
-  r1 |
-  r2 r4 b16 c16 es16 f16 ~\bar "||" |
-  \markMoj f16 f8 f16 ~f16 es16 g16 f16 ~f16 es8. r8 es16 as16 ~|
-  as16 as8 as16 ~as16 g8 g16 ~g8 es8 b'16 as16 g16 f16 ~|
-  f2 r4 b16 as16 g16 es16 ~|
-  es2 r2 |
+  r2 r2 \bar "|." |
 }
 
 harmonyOne = \chordmode  {
@@ -101,28 +79,6 @@ harmonyOne = \chordmode  {
   as2 es2 |
   b2 c2:m |
   as2 es2 |
-  b2 c2:m |
-  as2 es2 |
-  b2 c2:m |
-  as2 es2 |
-  b2 c2:m |
-  as2 es4 f4:m7 |
-  es1 |
-  s1 |
-  as2 es2/g |
-  as2 es2/g |
-  as2 es2/g |
-  as2 es2/g |
-  as2 es2/g |
-  as2 es2/g |
-  as2 es2/g |
-  as2 es2/g |
-  as2 es2/g |
-  as2 es2/g |
-  b2 c2:m |
-  f2:m7 es2 |
-  b2 c2:m |
-  f2:m7 es2 |
   \bar "|."
 }
 
@@ -146,26 +102,6 @@ lyricOneZero = \lyricmode {
   do -- vo -- ljan si i vi -- še od tog 
   Za -- u -- vijek Ti 
   do -- vo -- ljan si i vi -- še od tog 
-  već vo -- ljen sam 
-  već o -- da -- bran 
-  sam i znam tko sam 
-  zbog Rije -- či Tvo -- 
-  je već vo -- ljen sam 
-  ne za mi -- sli -- vo to 
-  je To je do -- 
-  volj -- no 
-  A -- ko da -- ru -- je cvije -- će 
-  Lje -- po -- tom i sja -- jem 
-  ko -- li -- ko vi -- še ti da -- je 
-  ko -- li -- ko vi -- še ti da -- je 
-  A -- ko ču -- va sve pti -- ce, 
-  ma -- le -- ne vra -- pce 
-  ko -- li -- ko vi -- še te vo -- li 
-  ko -- li -- ko vi -- še te vo -- li 
-  Vi -- še od mi -- 
-  sli sno -- va i če -- žnji On da -- 
-  je svo -- jom sna -- gom dje -- lu -- je sad 
-  Do -- vo -- ljan je 
 }
 
 lyricOneOne = \lyricmode {
