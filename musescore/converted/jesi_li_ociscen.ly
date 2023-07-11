@@ -70,15 +70,15 @@ staffOne = \relative c' {
 harmonyOne = \chordmode  {
   s2 |
   as1:7 |
-  c1 |
-  c1 |
-  c1 |
+  s1 |
+  s1 |
+  s1 |
   as2:7 c2:7 |
   f1:m7 |
   b1:m7 |
   es1:7 |
   as1:7 |
-  c1 |
+  s1 |
   des2:7 f2:7.9+ |
   b1:m7 |
   as2/es f2:7.9+ |
@@ -86,13 +86,13 @@ harmonyOne = \chordmode  {
   as1:7 |
   es1:7 |
   as1:7 |
-  c1 |
+  s1 |
   des1 |
   d4:dim7 as2./c |
   as2/es c2:7 |
   f2:m7/c b2:7 |
   es1:7 |
-  c1 |
+  s1 |
   as1:7 |
   es2:7.9+ as2:7 |
   des1 |
