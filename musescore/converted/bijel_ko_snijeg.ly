@@ -134,105 +134,56 @@ harmonyOne = \chordmode  {
 }
 
 lyricOneZero = \lyricmode {
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  Smi -- luj __ mi se |
-  Gos -- po -- de, |
-  Po ne -- iz -- mjer -- noj __ |
-  lju -- ba -- vi, __ |
-  Po ve -- li -- kom __ smi -- |
-  lo -- va -- nju __ svom |
-  Sav moj grijeh __ |
-  iz -- bri -- ši! __ |
-  Bo -- že __ ti stvo -- |
-  ri __ |
-  mi Sr -- ce __ |
-  ne -- vi -- |
-  no, I |
-  ob -- no -- |
-  vi mi |
-  ra -- dost __ svog __ spa -- se -- |
-  nja! __ Žr -- tva __ na -- šem __ |
-  Gos -- po -- du, |
-  Duh je ras -- ka -- jan __ i |
-  po -- ni -- zan. __ |
-  Te -- bi, __ sa -- |
-  mom __ te -- bi __ ja __ |
-  Sam zgrije -- ši -- o. __ |
-  |
-  |
-  Ti |
-  me od sveg __ o -- |
-  pe -- ri, I bit __ |
-  ću bijel __ ko' snijeg! __ |
-  Ti |
-  me od sveg __ o -- |
-  pe -- ri, I bit __ |
-  ću bijel __ ko' snijeg! __ |
-  Ti |
-  me od sveg __ o -- |
-  pe -- ri, I bit __ |
-  ću bijel __ ko' snijeg! __ |
-  Ti |
-  me od sveg __ o -- |
-  pe -- ri. |
+  Smi -- luj __ mi se 
+  Gos -- po -- de, 
+  Po ne -- iz -- mjer -- noj __ 
+  lju -- ba -- vi, __ 
+  Po ve -- li -- kom __ smi -- 
+  lo -- va -- nju __ svom 
+  Sav moj grijeh __ 
+  iz -- bri -- ši! __ 
+  Bo -- že __ ti stvo -- 
+  ri __ 
+  mi Sr -- ce __ 
+  ne -- vi -- 
+  no, I 
+  ob -- no -- 
+  vi mi 
+  ra -- dost __ svog __ spa -- se -- 
+  nja! __ Žr -- tva __ na -- šem __ 
+  Gos -- po -- du, 
+  Duh je ras -- ka -- jan __ i 
+  po -- ni -- zan. __ 
+  Te -- bi, __ sa -- 
+  mom __ te -- bi __ ja __ 
+  Sam zgrije -- ši -- o. __ 
+  Ti 
+  me od sveg __ o -- 
+  pe -- ri, I bit __ 
+  ću bijel __ ko' snijeg! __ 
+  Ti 
+  me od sveg __ o -- 
+  pe -- ri, I bit __ 
+  ću bijel __ ko' snijeg! __ 
+  Ti 
+  me od sveg __ o -- 
+  pe -- ri, I bit __ 
+  ću bijel __ ko' snijeg! __ 
+  Ti 
+  me od sveg __ o -- 
+  pe -- ri. 
 }
 
 lyricOneOne = \lyricmode {
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  Bo -- že __ ti stvo -- |
-  ri __ |
-  mi Sr -- ce __ |
-  ne -- vi -- |
-  no, I |
-  ob -- no -- |
-  vi mi |
-  ra -- dost __ mog __ spa -- se -- |
-  nja! __ |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
+  Bo -- že __ ti stvo -- 
+  ri __ 
+  mi Sr -- ce __ 
+  ne -- vi -- 
+  no, I 
+  ob -- no -- 
+  vi mi 
+  ra -- dost __ mog __ spa -- se -- 
+  nja! __ 
 }
 
 \score {
