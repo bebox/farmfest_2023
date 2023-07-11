@@ -16,6 +16,7 @@ hdim = \markup { \fontsize #-7 \raise #1.2 \char ##x00d8 }
 aug = \markup { \fontsize #-7 \raise #1.2 "+" }
 dva = \markup { \fontsize #-4 \raise #0.8 "2" }
 cetri = \markup { \fontsize #-4 \raise #0.8 "4" }
+pet = \markup { \fontsize #-4 \raise #0.8 "5" }
 sest = \markup { \fontsize #-4 \raise #0.8 "6" }
 sedam = \markup { \hspace #0.1 \fontsize #-4 \raise #0.8 "7" }
 devet = \markup { \fontsize #-4 \raise #0.8 "9" }
@@ -40,6 +41,8 @@ jazzChordsMusic =
   <c e g h>-\markup { \maj \sedam }
   <c es g b>-\markup { \min \sedam }
   <c e g b des'>-\markup { \sedam { \hspace #0 \translate #'(0.2 . 0.6) \epsfile #X #0.6 #"snizilica.eps" } \devet }
+  <c e g b dis'>-\markup { \sedam \chordSharp \devet }
+  <c e gis b>-\markup { \sedam \chordSharp \pet }
   <c es ges b>-\markup { \hdim }
   <c es ges heses>-\markup { \dim \sedam }
   <c f g des'>-\markup { \sus \chordFlat \devet }
