@@ -76,6 +76,7 @@ harmonyOne = \chordmode  {
 
 lyricOneZero = \lyricmode {
   %\repeat unfold 1 { \skip1 }
+  \set stanza = "1."
   O ka -- kav 
   dar je spa -- si -- telj, moj 
   I -- sus. Bo -- lje -- ga 
@@ -97,6 +98,7 @@ lyricOneZero = \lyricmode {
 
 lyricOneOne = \lyricmode {
   %\repeat unfold 1 { \skip1 }
+  \set stanza = "2."
   Noć ta -- mna 
   je, al' on uz me -- ne 
   bdi -- je. Uz me -- ne 
@@ -118,6 +120,7 @@ lyricOneOne = \lyricmode {
 
 lyricOneTwo = \lyricmode {
   %\repeat unfold 1 { \skip1 }
+  \set stanza = "3."
   Ne bo -- jim 
   se, bu -- du -- ćnost mo -- ju 
   dr -- ži. Za me -- ne 
@@ -139,6 +142,7 @@ lyricOneTwo = \lyricmode {
 
 lyricOneThree = \lyricmode {
   %\repeat unfold 1 { \skip1 }
+  \set stanza = "4."
   Svi -- me što 
   je -- sam ja ću nje -- ga 
   slije -- dit'. U ne -- bo 

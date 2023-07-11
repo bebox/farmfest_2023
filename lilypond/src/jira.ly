@@ -83,6 +83,7 @@ harmonyOne = \chordmode  {
 
 lyricOneZero = \lyricmode {
   \repeat unfold 10 { \skip1 }
+  \set stanza = "1."
   Ti vo -- liš me vi -- še od __ _ 
   i -- ko -- ga. Sve što je -- sam i znam 
   pri -- hva -- ćaš i sve __ _ mi __ _ 
@@ -105,6 +106,7 @@ lyricOneZero = \lyricmode {
 
 lyricOneOne = \lyricmode {
   \repeat unfold 10 { \skip1 }
+  \set stanza = "2."
   Kad kre -- ne o -- lu -- ja ne po -- 
   su -- sta -- jem. Tvoj __ _ ču -- je se glas 
   pre -- no -- si ga vje -- tar dok __ _ 
@@ -121,6 +123,7 @@ lyricOneOne = \lyricmode {
 
 lyricOneTwo = \lyricmode {
   \repeat unfold 10 { \skip1 }
+  \set stanza = "3."
   U Tvo -- joj bli -- zi -- ni sam __ _ 
   si -- gu -- ran. Na pla -- ni -- na -- ma sam 
   Ja -- sno vi -- dim smi -- sa -- o ži -- 

@@ -105,6 +105,7 @@ harmonyOne = \chordmode  {
 }
 
 lyricOneZero = \lyricmode {
+  \set stanza = "1."
   Je -- si 
   li o -- 
   čiš -- ćen, ro -- đen 
@@ -140,6 +141,7 @@ lyricOneZero = \lyricmode {
 }
 
 lyricOneOne = \lyricmode {
+  \set stanza = "2."
   Je -- si 
   li već 
   spa -- šen, sa -- svim 
@@ -159,6 +161,7 @@ lyricOneOne = \lyricmode {
 }
 
 lyricOneTwo = \lyricmode {
+  \set stanza = "3."
   Bu -- di 
   pri -- pra -- 
   van za nje -- gov 

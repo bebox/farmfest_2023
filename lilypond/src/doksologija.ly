@@ -66,6 +66,7 @@ harmonyOne = \chordmode  {
 }
 
 lyricOneZero = \lyricmode {
+  \set stanza = "1."
   Sla -- vi mo 
   pje -- smom Bo -- 
   ga svog. 
@@ -83,6 +84,7 @@ lyricOneZero = \lyricmode {
 }
 
 lyricOneOne = \lyricmode {
+  \set stanza = "2."
   Sva sla -- va 
   O -- cu ne -- 
   be -- skom. 

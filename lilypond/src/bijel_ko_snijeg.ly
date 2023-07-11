@@ -135,6 +135,7 @@ harmonyOne = \chordmode  {
 
 lyricOneZero = \lyricmode {
   \repeat unfold 16 { \skip1 }
+  \set stanza = "1."
   Smi -- luj mi se 
   Gos -- po -- de, __ 
   po ne -- iz -- mjer -- noj 
@@ -151,7 +152,7 @@ lyricOneZero = \lyricmode {
   ob -- no -- 
   vi __ mi 
   ra -- dost svog spa -- se -- 
-  nja! Žr -- tva na -- šem 
+  nja! \set stanza = "2." Žr -- tva na -- šem 
   Gos -- po -- du, 
   duh je ras -- ka -- jan i 
   po -- ni -- zan. __ 
