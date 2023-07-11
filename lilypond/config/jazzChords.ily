@@ -8,6 +8,7 @@ chordSharp = \markup { \hspace #0.2 \fontsize #-3 \raise #0.7 "#" }
 %definicija znakova
 %min = \markup { \fontsize #-4 \raise #0.55 #(ly:export (ly:wide-char->utf-8 #x2013)) }
 %min = \markup { \fontsize #-4 \raise #0.55 \char ##x2013 }
+add = \markup { \fontsize #-4 \raise #0.8 "add" }
 min = \markup { \fontsize #-2 "m" }
 maj = \markup { \fontsize #-2 "maj" }
 dim = \markup { \hspace #0.06 \fontsize #-7 \raise #1.2 \char ##x00b0 }
@@ -42,6 +43,7 @@ jazzChordsMusic =
   <c es ges heses>-\markup { \dim \sedam }
   <c f g des'>-\markup { \sus \chordFlat \devet }
   <c e g b d'>-\markup { \devet }
+  <c e g d'>-\markup { \add \devet }
   <c f g b>-\markup { \sedam \sus \cetri }
   %nonakordi
   <c es g b d'>-\markup { \min \devet }
