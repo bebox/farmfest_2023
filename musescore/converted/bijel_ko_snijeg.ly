@@ -84,57 +84,57 @@ staffOne = \relative c' {
 harmonyOne = \chordmode  {
   s2 |
   a2:m7 a2:m7/g |
-  f1:5.9 |
+  f1:9^7 |
   a2:m7 a2:m7/g |
-  f1:5.9 |
+  f1:9^7 |
   a2:m7 a2:m7/g |
-  f1:5.9 |
+  f1:9^7 |
   a2:m7 a2:m7/g |
-  f1:5.9 |
+  f1:9^7 |
   a2:m7 a2:m7/g |
-  f1:5.9 |
+  f1:9^7 |
   a2:m7 a2:m7/g |
-  f1:5.9 |
+  f1:9^7 |
   a2:m7 a2:m7/g |
-  f1:5.9 |
+  f1:9^7 |
   a2:m7 a2:m7/g |
-  f1:5.9 |
+  f1:9^7 |
   a2:m7 a2:m7/g |
-  f1:5.9 |
+  f1:9^7 |
   a2:m7 a2:m7/g |
-  f1:5.9 |
+  f1:9^7 |
   a2:m7 a2:m7/g |
-  f1:5.9 |
+  f1:9^7 |
   a2:m7 a2:m7/g |
-  f1:5.9 |
+  f1:9^7 |
   a2:m7 a2:m7/g |
-  f1:5.9 |
+  f1:9^7 |
   a2:m7 a2:m7/g |
-  f1:5.9 |
+  f1:9^7 |
   a2:m7 a2:m7/g |
-  f1:5.9 |
+  f1:9^7 |
   a2:m7 a2:m7/g |
-  f1:5.9 |
+  f1:9^7 |
   c1 |
+  s1 |
+  f1:9^7 |
+  s1 |
   c1 |
-  f1:5.9 |
-  c1 |
-  c1 |
-  c1 |
-  f1:5.9 |
-  c1 |
+  s1 |
+  f1:9^7 |
+  s1 |
   a1:m7 |
-  c1 |
-  f1:5.9 |
-  c1 |
+  s1 |
+  f1:9^7 |
+  s1 |
   a1:m7 |
-  c1 |
-  f1:5.9 |
+  s1 |
+  f1:9^7 |
   \bar "|."
 }
 
 lyricOneZero = \lyricmode {
-  \repeat unfold 18 { \skip1 }
+  \repeat unfold 17 { \skip1 }
   Smi -- luj mi se 
   Gos -- po -- de, 
   po ne -- iz -- mjer -- noj 
@@ -176,7 +176,7 @@ lyricOneZero = \lyricmode {
 }
 
 lyricOneOne = \lyricmode {
-  \repeat unfold 51 { \skip1 }
+  \repeat unfold 50 { \skip1 }
   Bo -- že ti stvo -- 
   ri 
   mi sr -- ce 
