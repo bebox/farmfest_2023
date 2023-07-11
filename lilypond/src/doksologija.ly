@@ -11,7 +11,7 @@ markMoj = {}
 
 \header {
   titlex = "Farmfest 2023"
-  broj = "1"
+  broj = "4"
   title = "DOKSOLOGIJA"
   composer = "Genevan Psalter"
   style = ""
@@ -19,7 +19,7 @@ markMoj = {}
 }
 
 \paper {
-  \aFourL
+  \aFourR
   %min-systems-per-page = #7
   %annotate-spacing = ##t
   %system-system-spacing.padding = #3.2
@@ -89,7 +89,7 @@ lyricOneOne = \lyricmode {
   O -- cu ne -- 
   be -- skom. 
   Si -- nu i 
-  du -- hu pre -- 
+  Du -- hu pre -- 
   sve -- tom. 
   Tro -- je -- di -- 
   no -- me Bo -- 

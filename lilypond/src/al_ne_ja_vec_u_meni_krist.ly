@@ -19,7 +19,7 @@ markMoj = {}
 }
 
 \paper {
-  \aFourL
+  \aFourR
   %min-systems-per-page = #7
   %annotate-spacing = ##t
   %system-system-spacing.padding = #3.2
@@ -78,7 +78,7 @@ lyricOneZero = \lyricmode {
   %\repeat unfold 1 { \skip1 }
   \set stanza = "1."
   O ka -- kav 
-  dar je spa -- si -- telj, moj 
+  dar je Spa -- si -- telj, moj 
   I -- sus. Bo -- lje -- ga 
   ne -- bo ni -- je mo -- glo 
   dat'. On mi je 
@@ -91,7 +91,7 @@ lyricOneZero = \lyricmode {
   svoj ja nje -- mu du -- gu -- 
   jem. Ka -- ko 
   ču -- de -- sno je, pje -- vam 
-  sad: "\"mo" -- gu "sve\"," al' ne 
+  sad: "\"Mo" -- gu "sve\"," al' ne 
   ja, već u me -- ni 
   Krist. 
 }
@@ -100,11 +100,11 @@ lyricOneOne = \lyricmode {
   %\repeat unfold 1 { \skip1 }
   \set stanza = "2."
   Noć ta -- mna 
-  je, al' on uz me -- ne 
+  je, al' On uz me -- ne 
   bdi -- je. Uz me -- ne 
   Spa -- si -- telj će o -- sta -- 
   ti. U sla -- bo -- 
-  sti moć je -- go -- va se 
+  sti moć nje -- go -- va se 
   kri -- je, pri -- tje -- če 
   nam u sva -- koj po -- tre -- 
   bi. Si -- gur -- no 
@@ -125,7 +125,7 @@ lyricOneTwo = \lyricmode {
   se, bu -- du -- ćnost mo -- ju 
   dr -- ži. Za me -- ne 
   cije -- nu krv -- lju pla -- ti 
-  On. Na gol -- go -- 
+  On. Na Gol -- go -- 
   ti sav te -- ret u -- ze 
   na se, u -- skr -- snu 
   sla -- vno ka -- o po -- bjed -- 

@@ -11,7 +11,7 @@ markMoj = {}
 
 \header {
   titlex = "Farmfest 2023"
-  broj = "1"
+  broj = "11"
   title = "LJUBAV SI BESKRAJNA"
   composer = "Phil Wickham"
   style = ""
@@ -143,7 +143,7 @@ lyricOneZero = \lyricmode {
   i mi -- lost pre -- div -- na. __ 
   Moj grijeh si po -- ni -- o, __ 
   za me sve pla -- ti -- o. __ 
-  Ži -- vot ti da -- o -- 
+  Ži -- vot Ti da -- o -- 
   si, __ 
   da bu -- dem slo -- bo -- 
   dan. __ 
