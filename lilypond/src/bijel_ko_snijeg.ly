@@ -116,19 +116,19 @@ harmonyOne = \chordmode  {
   a2:m7 a2:m7/g |
   f1:9^7 |
   c1 |
-  c1 |
+  s1 |
   f1:9^7 |
+  s1 |
   c1 |
-  c1 |
-  c1 |
+  s1 |
   f1:9^7 |
-  c1 |
+  s1 |
   a1:m7 |
-  c1 |
+  s1 |
   f1:9^7 |
-  c1 |
+  s1 |
   a1:m7 |
-  c1 |
+  s1 |
   f1:9^7 |
   \bar "|."
 }
