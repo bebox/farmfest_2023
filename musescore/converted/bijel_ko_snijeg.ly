@@ -5337,7 +5337,7 @@
 \include "deutsch.ly"
 jazzChords = {}
 aFourL = {}
-markMojPoc = {}
+markMoj = {}
 %\include "../config/include.ily"
 
 \layout {
@@ -5365,15 +5365,15 @@ staffOne = \relative c' {
   \tempo 4 = 112
   \partial 2
   f8 e8 d8 c8 \bar "||" |
-  \markMojPoc a4. c8 g4 d'4 ~ |
+  \markMoj a4. c8 g4 d'4 ~ |
   d1 |
   r1 |
-  g,4 a4 d4 e4 | \break
+  g,4 a4 d4 e4 |
   g4 a2 e4 |
   g1 |
   r1 |
-  r2 f8 e8 d8 c8 \bar "||" | \break
-  \markMojPoc e4 e4 d2 |
+  r2 f8 e8 d8 c8 \bar "||" |
+  \markMoj e4 e4 d2 |
   r4 r8 e8 f8 e8 d8 c8 |
   e4 e4 d8 ( c4. ) |
   r4 r8 e8 f8 e8 d8 c8 |
@@ -5381,7 +5381,7 @@ staffOne = \relative c' {
   r2 c8 f4 e8 ~ |
   e4 e4 d8 c4. ~ |
   c2 g'8 a8 h8 c8 ~ \bar "||" |
-  \markMojPoc c2. h4 |
+  \markMoj c2. h4 |
   g2 g8 a4. |
   e2. d8 ( c8 ) |
   c2. r8 a'8 |
@@ -5389,15 +5389,15 @@ staffOne = \relative c' {
   g2. r8 a8 |
   c4 a8 c8 ~ c8 a4 d8 ~ |
   d8 a8 ( g4 ) f8 e8 d8 c8 \bar "||" |
-  \markMojPoc e4 e4 d2 |
+  \markMoj e4 e4 d2 |
   r4 c8 d8 f8 e8 d8 c8 |
   e4 e4 d8 ( c4. ) |
   r2 c8 d4 g8 ~ |
   g4 f8 e8 ~ e4 d8 f8 ~ |
   f4. c8 c8 e4 e8 ~ |
   e2 r2 |
-  r1 \bar "||" | \break
-  \markMojPoc r2 e'2 |
+  r1 \bar "||" |
+  \markMoj r2 e'2 |
   d4. d8 e8 ( d4 ) d8 |
   d8 c4. r4 g8 f'8 ~ |
   f8 e4 d8 ~ d8 c4 g8 ~ |
@@ -5570,9 +5570,9 @@ lyricOneOne = \lyricmode {
 
 \score {
     <<
-    \new ChordNames \harmonyOne
+    \new ChordNames { \jazzChords \harmonyOne }
     \new Staff { \staffOne }
-    \new Lyrics { \jazzChords \lyricOneZero }
-    \new Lyrics { \jazzChords \lyricOneOne }
+    \new Lyrics { \lyricOneZero }
+    \new Lyrics { \lyricOneOne }
     >>
 }
