@@ -134,6 +134,7 @@ harmonyOne = \chordmode  {
 }
 
 lyricOneZero = \lyricmode {
+  \repeat unfold 18 { \skip1 }
   Smi -- luj __ mi se 
   Gos -- po -- de, 
   Po ne -- iz -- mjer -- noj __ 
@@ -175,6 +176,7 @@ lyricOneZero = \lyricmode {
 }
 
 lyricOneOne = \lyricmode {
+  \repeat unfold 51 { \skip1 }
   Bo -- že __ ti stvo -- 
   ri __ 
   mi Sr -- ce __ 
