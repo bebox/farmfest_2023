@@ -5479,40 +5479,40 @@ lyricOneZero = \lyricmode {
   1 |
   2 Smi8 -- luj8 mi8 se8 |
   Gos4 -- po4 -- de,2 |
-  4 8 Po8 ne8 -- iz8 -- mjer8 -- noj8 |
+  4 8 po8 ne8 -- iz8 -- mjer8 -- noj8 |
   lju4 -- ba4 -- vi,8 4. |
-  4 8 Po8 ve8 -- li8 -- kom8 smi8 -- |
+  4 8 po8 ve8 -- li8 -- kom8 smi8 -- |
   lo4 -- va4 -- nju4 svom4 |
-  2 Sav8 moj4 grijeh8 |
+  2 sav8 moj4 grijeh8 |
   4 iz4 -- bri8 -- ši!4. |
   2 Bo8 -- že8 ti8 stvo8 -- |
   2. ri4 |
-  mi2 Sr8 -- ce4. |
+  mi2 sr8 -- ce4. |
   ne2. -- vi8 -- 8 |
-  no,2. 8 I8 |
+  no,2. 8 i8 |
   ob2. -- no4 -- |
   vi2. 8 mi8 |
   ra4 -- dost8 svog8 8 spa4 -- se8 -- |
   8 nja!8 4 Žr8 -- tva8 na8 -- šem8 |
   Gos4 -- po4 -- du,2 |
-  4 Duh8 je8 ras8 -- ka8 -- jan8 i8 |
+  4 duh8 je8 ras8 -- ka8 -- jan8 i8 |
   po4 -- ni4 -- zan.8 4. |
   2 Te8 -- bi,4 sa8 -- |
   4 mom8 te8 -- 4 bi8 ja8 |
-  4. Sam8 zgrije8 -- ši4 -- o.8 |
+  4. sam8 zgrije8 -- ši4 -- o.8 |
   2 2 |
   1 |
   2 Ti2 |
   me4. od8 sveg8 4 o8 -- |
-  pe8 -- ri,4. 4 I8 bit8 |
+  pe8 -- ri,4. 4 i8 bit8 |
   8 ću4 bijel8 8 ko'4 snijeg!8 |
   2 Ti2 |
   me4. od8 sveg8 4 o8 -- |
-  pe8 -- ri,4. 4 I8 bit8 |
+  pe8 -- ri,4. 4 i8 bit8 |
   8 ću4 bijel8 8 ko'4 snijeg!8 |
   2 Ti2 |
   me4. od8 sveg8 4 o8 -- |
-  pe8 -- ri,4. 4 I8 bit8 |
+  pe8 -- ri,4. 4 i8 bit8 |
   8 ću4 bijel8 8 ko'4 snijeg!8 |
   2 Ti2 |
   me4. od8 sveg8 4 o8 -- |
@@ -5538,9 +5538,9 @@ lyricOneOne = \lyricmode {
   4 4 8 4. |
   2 Bo8 -- že8 ti8 stvo8 -- |
   2. ri4 |
-  mi2 Sr8 -- ce4. |
+  mi2 sr8 -- ce4. |
   ne2. -- vi8 -- 8 |
-  no,2. 8 I8 |
+  no,2. 8 i8 |
   ob2. -- no4 -- |
   vi2. 8 mi8 |
   ra4 -- dost8 mog8 8 spa4 -- se8 -- |
