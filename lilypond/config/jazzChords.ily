@@ -27,6 +27,7 @@ sus = \markup { \hspace #0.1 \fontsize #-5 \raise #1.16 "sus" }
 jazzChordsMusic =
 {
   %kvintakordi
+  <c e ges>-\markup { {\hspace #0 \translate #'(0.2 . 0.6) \epsfile #X #0.6 #"snizilica.eps"}  \pet }
   <c es g>-\markup { \min }
   <c d g>-\markup { \dva }
   <c es ges>-\markup {\dim }
